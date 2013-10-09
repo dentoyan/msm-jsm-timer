@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ -g -o vending_machine vending_machine.cpp -lboost_system -lboost_thread
